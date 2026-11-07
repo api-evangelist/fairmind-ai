@@ -1,4 +1,4 @@
-# fairmind-ai
+# FairMind
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fairmind-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fairmind.ai/
+FairMind provides a trust layer for AI agents in software development, linking requirements, decisions, issues, and documents to code with full history. Their platform enables agents to read context before acting, ensuring proposals are reviewed and confirmed by humans. Features include brain services for SDLC assessment, an academy, harness engineering resources, and quickstart guides, plus support and white papers. FairMind aims to make AI‑augmented development safe, auditable, and collaborative across the software lifecycle.
+
+**Areas:** AI · TrustLayer · SoftwareDevelopment · Collaboration · Auditable
+
+## FairMind on APIs.io
+
+Everything profiled for FairMind is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fairmind-ai/](https://apis.io/providers/fairmind-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [FairMind Brain API](https://apis.io/apis/fairmind-ai/fairmind-brain-api/) — API for FairMind Brain services, providing AI model completions, embeddings, and other AI operations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Fairmind Ai Context](https://apis.io/jsonld/fairmind-ai/fairmind-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [FairMind API Rules](https://apis.io/rules/fairmind-ai/fairmind-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fairmind Ai Domain Security](https://apis.io/security/fairmind-ai/fairmind-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fairmind Ai Plans Pricing](https://apis.io/plans/fairmind-ai/fairmind-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.fairmind.ai/en/)
+- [Getting started](https://www.fairmind.ai/en/brain/quickstart)
+- [Support](https://www.fairmind.ai/en/support)
+- [Blog](https://www.fairmind.ai/en/blog)
+- [Privacy policy](https://www.fairmind.ai/en/privacy)
+- [Status](https://status.fairmind.ai/)
+
+## API Evangelist rating
+
+**Kin Score 34.5** — thin · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 14.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 38.9 |
+
+**Agent readiness 7.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fairmind-ai/](https://apis.io/providers/fairmind-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FairMind: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fairmind-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
